@@ -1,0 +1,98 @@
+header{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwOGJ2mCzLWsWal3VvKp7XYi-sssjMRcREmg&s);
+    height:32vh;
+    width: 100%;
+    font-size: 20px;
+    
+}
+h1{
+    text-decoration: underline;
+    font-style: italic;
+    color:orangered;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.a{
+    text-align: end;
+    text-transform: capitalize;
+    color:blue;
+    text-shadow: 2px 2px 2px red;
+}
+.b{
+    text-align: center;
+    text-transform: lowercase;
+    color:blue;
+    text-shadow: 2px 2px 2px red;
+}
+.c{
+    text-transform: uppercase;
+    color:blue;
+    text-shadow: 2px 2px 2px red;
+}
+.d{
+    background: linear-gradient(to left, green,yellow);
+    text-align: center;
+}
+main{
+    background: linear-gradient(to right,orange,red);
+}
+.e{
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    border: 2px solid blue;
+    margin-left: 40%;
+    /* padding-left: 40px; */
+}
+.f{
+    text-align: center;
+    background-color:bisque;
+    width: 250px;
+    height: 60px;
+
+ }
+.e img{
+    padding-left: 25px;
+}
+.f b{
+    color:darkblue;
+    font-weight: bold;
+}
+.g{
+    margin-left: 40%;
+    margin-top: 20px;
+    height: 270px;
+    width: 250px;
+    background-color: rgb(243, 11, 185);
+    border: 2px solid greenyellow;
+    text-align: center;
+    margin-bottom: 2px;
+}
+.g img{
+    object-fit: fill;
+    width: 250px;
+    height: 180px;
+    
+}
+.g b{
+    color: rgb(88, 21, 245);
+}
+.h{
+    margin-left: 40%;
+    margin-top: 20px;
+    height: 270px;
+    width: 250px;
+    background-color: rgb(42, 11, 243);
+    border: 2px solid rgb(255, 235, 17);
+    text-align: center;
+    margin-bottom: 2px;
+}
+.h img{
+    object-fit: fill;
+    width: 250px;
+    height: 180px;
+}
+.h b{
+    color: rgb(245, 211, 21);
+}
+
